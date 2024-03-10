@@ -1,11 +1,27 @@
-# Limit-Sniper-Arbitrum
+# SpamSniper
 
-## Currently in beta-testing phase... More infos soon!
+## A sniper made for chains without mempool (L2 chains like Arbitrum / Base / Blast, AVAX...)
 
-```yaml   
-SPAM_TX_MODE available values : 
-- disabled: Spam mode disabled --> bot will wait to detect addliquidity tx --> it will make you swap 1 Block later
-- block: bot will send 1 tx per block
-- manual: you define the speed of spam. Default value : 1s. Press up and down arrow or "+/-" to change frequency by 0.25s
-```
+Compatible with : 
 
+<img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/e80667be-da5b-4ee1-a477-ad845e32c745" width="100" height="100">
+AVAX
+<br>
+<img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/db5b83e4-2e5d-40b4-afe1-f340c7173319" width="100" height="100">
+BASE
+<br>
+<img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/3e791033-c1af-4eb0-98ad-0a735c3b6b2d" width="100" height="100">
+BLAST
+<br> &nbsp;
+<br> &nbsp;
+
+
+## Features
+### Antirug
+### Tax checker
+### Autosell
+
+
+<br> &nbsp;
+## How to buy?
+Contact [@TsarBuig](https://t.me/tsarbuig) on Telegram for more details
