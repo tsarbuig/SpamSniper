@@ -4,6 +4,9 @@
 
 Compatible with : 
 
+<img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/73cc54db-063f-4cf6-8b9a-93ca3333ca17" width="100" height="100">
+Arbitrum
+<br>
 <img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/e80667be-da5b-4ee1-a477-ad845e32c745" width="100" height="100">
 AVAX
 <br>
