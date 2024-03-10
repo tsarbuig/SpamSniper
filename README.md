@@ -15,6 +15,10 @@ BASE
 <br>
 <img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/3e791033-c1af-4eb0-98ad-0a735c3b6b2d" width="100" height="100">
 BLAST
+<br>
+<img src="https://github.com/tsarbuig/SpamSniper/assets/70858574/1251708d-b1bd-4838-a6e0-54e851c3d490" height="100">
+Shibarium
+
 <br> &nbsp;
 <br> &nbsp;
 
